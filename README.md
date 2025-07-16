@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://i.postimg.cc/qvMpyJyk/Captura-de-pantalla-2025-07-16-104242.png" width="250" height="160" alt="demo">
-  <img src="https://i.postimg.cc/qvMpyJyk/Captura-de-pantalla-2025-07-16-104242.png" width="250" height="160" alt="demo-2">
+  <img src="https://i.postimg.cc/5tDJh8G0/Captura-de-pantalla-2025-07-16-104317.png" width="250" height="160" alt="demo-2">
 </p>
 
 ---
