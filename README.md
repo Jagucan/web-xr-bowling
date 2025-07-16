@@ -3,7 +3,7 @@
 **WebXR Bowling** es un mini-juego de bolos en 3D desarrollado con **Unity** y exportado para navegadores mediante **WebXR Exporter**. Diseñado para visores compatibles como **Oculus Quest**, permite una experiencia inmersiva de bolos con control total de la bola, trampas aleatorias y sistema de puntuación integrado.
 
 <p align="center">
-  <img src="https://i.postimg.cc/JhjMZPPL/75ab1a4559f254a0ade9d5373c89d77cbd73c2c7.gif" width="500" height="320" alt="Demo-GIF">
+  <img src="[https://i.postimg.cc/JhjMZPPL/75ab1a4559f254a0ade9d5373c89d77cbd73c2c7.gif](https://i.postimg.cc/JhjMZPPL/75ab1a4559f254a0ade9d5373c89d77cbd73c2c7.gif)" width="500" height="320" alt="Demo-GIF">
 </p>
 
 <p align="center">
